@@ -1,0 +1,135 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 6
+ * Due Date: 03/19/2022
+ * Date Submitted: 03/19/2022
+ */
+
+
+***********************************************************Test_Run_1************************************************************
+						    (Test wrong file location)
+
+1. In Console:
+
+Accessing file with directory: C:\student_data.txt
+
+FixProblems [errorno = 101, errormsg = File Not Found]
+Getting file directory...
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+
+2. In log file Log.txt:
+
+FixProblems [errorno = 101, errormsg = File Not Found]
+Fixing Problem [errorno = 101, errormsg = File Not Found]
+Getting file's path...
+File Path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+
+***********************************************************Test_Run_2************************************************************
+					(Test a wrong number format while reading the file)
+1. In Console:
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 4532
+Please enter by hand data of the next student
+Student id: 5678
+Score 1: 020
+Score 2: 012
+Score 3: 045
+Score 4: 078
+Score 5: 034
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+File read successfully!
+
+
+2. In log file Log.txt:
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 4532
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+		
+***********************************************************Test_Run_3************************************************************
+					(Test multiple wrong number format while reading the file)
+
+1. In Console:
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 2134
+Please enter by hand data of the next student
+Student id: 3124
+Score 1: 100
+Score 2: 045
+Score 3: 020
+Score 4: 090
+Score 5: 070
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 4532
+Please enter by hand data of the next student
+Student id: 5678
+Score 1: 020
+Score 2: 012
+Score 3: 045
+Score 4: 078
+Score 5: 034
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_2.txt
+File read successfully!
+
+2. In log file Log.txt:
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 2134
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 4532
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_2.txt
+
+***********************************************************Test_Run_4************************************************************
+					(Test both file not found and invalid number format)
+
+1. In Console:
+
+Accessing file with directory: C:\student_data.txt
+
+FixProblems [errorno = 101, errormsg = File Not Found]
+Getting file directory...
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 2134
+Please enter by hand data of the next student
+Student id: 3124
+Score 1: 100
+Score 2: 045
+Score 3: 020
+Score 4: 090
+Score 5: 070
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+File read successfully!
+
+2. In log file Log.txt:
+
+FixProblems [errorno = 101, errormsg = File Not Found]
+Fixing Problem [errorno = 101, errormsg = File Not Found]
+Getting file's path...
+File Path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 2134
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+

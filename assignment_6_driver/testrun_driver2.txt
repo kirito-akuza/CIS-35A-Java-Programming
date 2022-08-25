@@ -1,0 +1,43 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 6
+ * Due Date: 03/19/2022
+ * Date Submitted: 03/19/2022
+ */
+
+
+***********************************************************Test_Run_1************************************************************
+					(Test serialize and deserialize student id = 1234)
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+Serializing file...
+Serializing file completed!
+Deserialize with student ID = 1234....
+Score of student with ID = 1234
+ID        Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+1234      52        7         100       78        34        
+
+***********************************************************Test_Run_2************************************************************
+					(Test serialize and deserialize student id = 6134)
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+Serializing file...
+Serializing file completed!
+Deserialize with student ID = 6134....
+Score of student with ID = 6134
+ID        Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+6134      34        80        55        78        45        
+		
+***********************************************************Test_Run_3************************************************************
+					(Test serialize and deserialize student id = 2134)
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+Serializing file...
+Serializing file completed!
+Deserialize with student ID = 2134....
+Score of student with ID = 2134
+ID        Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+2134      90        36        90        77        30        

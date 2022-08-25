@@ -1,0 +1,34 @@
+FixProblems [errorno = 101, errormsg = File Not Found]
+Fixing Problem [errorno = 101, errormsg = File Not Found]
+Getting file's path...
+File Path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 2134
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 4532
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_2.txt
+
+FixProblems [errorno = 101, errormsg = File Not Found]
+Fixing Problem [errorno = 101, errormsg = File Not Found]
+Getting file's path...
+File Path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+
+FixProblems [errorno = 404, errormsg = Invalid Number Format]
+Score format error after student with id: 2134
+Creating new back up file with correction...
+New file with correction is ready to use...
+New file path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\Back_up_student_file_1.txt
+
+
+FixProblems [errorno = 101, errormsg = File Not Found]
+Fixing Problem [errorno = 101, errormsg = File Not Found]
+Getting file's path...
+File Path: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+

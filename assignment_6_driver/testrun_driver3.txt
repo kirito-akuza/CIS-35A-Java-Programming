@@ -1,0 +1,90 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 6
+ * Due Date: 03/19/2022
+ * Date Submitted: 03/19/2022
+ */
+
+
+***********************************************************Test_Run_1************************************************************
+						(Test API with student id = 6134)
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+Serializing file...
+Serializing file completed!
+Deserialize with student ID = 6134
+
+Score of student with ID = 6134
+ID        Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+6134      34        80        55        78        45        
+
+Highest Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+100       100       100       90        80        
+
+Lowest Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+0         7         0         32        10        
+
+Average Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+46.20     42.33     70.47     75.67     49.73     
+
+
+
+
+***********************************************************Test_Run_2************************************************************
+						(Test API with student id = 1947)
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+Serializing file...
+Serializing file completed!
+Deserialize with student ID = 1947
+
+Score of student with ID = 1947
+ID        Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+1947      45        40        88        78        55        
+
+Highest Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+100       100       100       90        80        
+
+Lowest Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+0         7         0         32        10        
+
+Average Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+46.20     42.33     70.47     75.67     49.73     
+
+
+
+
+***********************************************************Test_Run_3************************************************************
+						(Test API with student id = 1234)
+
+Accessing file with directory: C:\Users\Nathan Dinh\eclipse-workspace\CIS_35A\src\assignment_6_util\student_data.txt
+File read successfully!
+Serializing file...
+Serializing file completed!
+Deserialize with student ID = 1234
+
+Score of student with ID = 1234
+ID        Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+1234      52        7         100       78        34        
+
+Highest Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+100       100       100       90        80        
+
+Lowest Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+0         7         0         32        10        
+
+Average Score
+Quiz 1    Quiz 2    Quiz 3    Quiz 4    Quiz 5    
+46.20     42.33     70.47     75.67     49.73     
+
+ 
