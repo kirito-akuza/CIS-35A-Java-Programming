@@ -1,0 +1,172 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 2a
+ * Due Date: 01/27/2022
+ * Date Submitted: 01/27/2022
+ */
+
+*****************************************PART 1*****************************************************
+1001011B = 75D
+1101110D = 100001100110100110110B
+
+
+*****************************************PART 2*****************************************************
+Passed! Correct: 12. Incorrect: 3
+Student missed the question: 1 2 15 
+
+----------------------------------------------------------------------------------------------------
+Failed! Correct: 11. Incorrect: 4
+Student missed the question: 1 2 3 15 
+
+----------------------------------------------------------------------------------------------------
+Failed! Correct: 10. Incorrect: 5
+Student missed the question: 1 2 3 4 15 
+
+----------------------------------------------------------------------------------------------------
+Passed! Correct: 15. Incorrect: 0
+Student missed the question: 
+
+----------------------------------------------------------------------------------------------------
+Failed! Correct: 0. Incorrect: 15
+Student missed the question: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+
+*****************************************PART 3*****************************************************
+Please input sales data of 6 divisions in 4 quarters
+Division 1, quarter 1: 128
+Division 1, quarter 2: 811
+Division 1, quarter 3: 237
+Division 1, quarter 4: 421
+Division 2, quarter 1: 789
+Division 2, quarter 2: 240
+Division 2, quarter 3: 269
+Division 2, quarter 4: 9
+Division 3, quarter 1: 182
+Division 3, quarter 2: 304
+Division 3, quarter 3: 378
+Division 3, quarter 4: 735
+Division 4, quarter 1: 594
+Division 4, quarter 2: 672
+Division 4, quarter 3: 830
+Division 4, quarter 4: 456
+Division 5, quarter 1: 526
+Division 5, quarter 2: 170
+Division 5, quarter 3: 815
+Division 5, quarter 4: 179
+Division 6, quarter 1: 21
+Division 6, quarter 2: 551
+Division 6, quarter 3: 437
+Division 6, quarter 4: 503
+
+Table of all Sales
+
+Divison       Quater 1     Quarter 2    Quarter 3    Quarter 4    
+Division 1    128.00       811.00       237.00       421.00       
+Division 2    789.00       240.00       269.00       9.00         
+Division 3    182.00       304.00       378.00       735.00       
+Division 4    594.00       672.00       830.00       456.00       
+Division 5    526.00       170.00       815.00       179.00       
+Division 6    21.00        551.00       437.00       503.00       
+
+Increase or Decrease from the previous quarter each division
+
+Divison       Quarter 2    Quarter 3    Quarter 4    
+Division 1    Increase     Decrease     Increase     
+Division 2    Decrease     Increase     Decrease     
+Division 3    Increase     Increase     Increase     
+Division 4    Increase     Increase     Decrease     
+Division 5    Decrease     Increase     Decrease     
+Division 6    Increase     Decrease     Increase     
+
+Total Sales for each quarter
+Total Sales Quarter 1: 2240.0
+Total Sales Quarter 2: 2748.0
+Total Sales Quarter 3: 2966.0
+Total Sales Quarter 4: 2303.0
+
+Increase or Decrease of Company from previous quarter 
+              Quarter 2    Quarter 3    Quarter 4    
+Company       Increase     Increase     Decrease     
+
+Average Sales for each quarter
+Average Sales Quarter 1: 373.33
+Average Sales Quarter 2: 458.00
+Average Sales Quarter 3: 494.33
+Average Sales Quarter 4: 383.83
+
+Highest Sales in each quarter
+Quarter 1: Division 2 with sales of 789.0
+Quarter 2: Division 1 with sales of 811.0
+Quarter 3: Division 4 with sales of 830.0
+Quarter 4: Division 3 with sales of 735.0
+
+----------------------------------------------------------------------------------------------------
+
+Please input sales data of 6 divisions in 4 quarters
+Division 1, quarter 1: 1
+Division 1, quarter 2: 2
+Division 1, quarter 3: 3
+Division 1, quarter 4: 4
+Division 2, quarter 1: 5
+Division 2, quarter 2: 6
+Division 2, quarter 3: 7
+Division 2, quarter 4: 8
+Division 3, quarter 1: 9
+Division 3, quarter 2: 1
+Division 3, quarter 3: 2
+Division 3, quarter 4: 3
+Division 4, quarter 1: 4
+Division 4, quarter 2: 5
+Division 4, quarter 3: 6
+Division 4, quarter 4: 7
+Division 5, quarter 1: 
+8
+Division 5, quarter 2: 9
+Division 5, quarter 3: 1
+Division 5, quarter 4: 2
+Division 6, quarter 1: 3
+Division 6, quarter 2: 4
+Division 6, quarter 3: 5
+Division 6, quarter 4: 6
+
+Table of all Sales
+
+Divison       Quater 1     Quarter 2    Quarter 3    Quarter 4    
+Division 1    1.00         2.00         3.00         4.00         
+Division 2    5.00         6.00         7.00         8.00         
+Division 3    9.00         1.00         2.00         3.00         
+Division 4    4.00         5.00         6.00         7.00         
+Division 5    8.00         9.00         1.00         2.00         
+Division 6    3.00         4.00         5.00         6.00         
+
+Increase or Decrease from the previous quarter each division
+
+Divison       Quarter 2    Quarter 3    Quarter 4    
+Division 1    Increase     Increase     Increase     
+Division 2    Increase     Increase     Increase     
+Division 3    Decrease     Increase     Increase     
+Division 4    Increase     Increase     Increase     
+Division 5    Increase     Decrease     Increase     
+Division 6    Increase     Increase     Increase     
+
+Total Sales for each quarter
+Total Sales Quarter 1: 30.0
+Total Sales Quarter 2: 27.0
+Total Sales Quarter 3: 24.0
+Total Sales Quarter 4: 30.0
+
+Increase or Decrease of Company from previous quarter
+              Quarter 2    Quarter 3    Quarter 4    
+Company       Decrease     Decrease     Increase     
+
+Average Sales for each quarter
+Average Sales Quarter 1: 5.00
+Average Sales Quarter 2: 4.50
+Average Sales Quarter 3: 4.00
+Average Sales Quarter 4: 5.00
+
+Highest Sales in each quarter
+Quarter 1: Division 3 with sales of 9.0
+Quarter 2: Division 5 with sales of 9.0
+Quarter 3: Division 5 with sales of 9.0
+Quarter 4: Division 2 with sales of 8.0
+
