@@ -1,0 +1,134 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 5
+ * Due Date: 03/07/2022
+ * Date Submitted: 03/07/2022
+ */
+
+
+***********************************************************Test_Run_1************************************************************
+					(Test printing and calculating from 1 - 4 operation)
+Welcome to Statistical Analysis of Scores Application
+We have data of 5 quizzes from students
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 1
+
+Low Scores in each Quiz:
+Quiz 1: 0
+Quiz 2: 7
+Quiz 3: 0
+Quiz 4: 32
+Quiz 5: 10
+Do you want to continue? - enter <y/n>: y
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 2
+
+High Scores in each Quiz:
+Quiz 1: 100
+Quiz 2: 100
+Quiz 3: 100
+Quiz 4: 90
+Quiz 5: 80
+Do you want to continue? - enter <y/n>: y
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 3
+
+Average Scores in each Quiz:
+Quiz 1: 46.20
+Quiz 2: 42.33
+Quiz 3: 70.47
+Quiz 4: 75.67
+Quiz 5: 49.73
+Do you want to continue? - enter <y/n>: y
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 4
+
+Printing all data...
+          Low Scores   High Scores   Average Scores
+Quiz 1             0           100            46.20
+Quiz 2             7           100            42.33
+Quiz 3             0           100            70.47
+Quiz 4            32            90            75.67
+Quiz 5            10            80            49.73
+Do you want to continue? - enter <y/n>: n
+
+Thank you! Have a nice day!
+
+
+***********************************************************Test_Run_2************************************************************
+						 (Test invalid input from user)
+
+Welcome to Statistical Analysis of Scores Application
+We have data of 5 quizzes from students
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 0
+
+Invalid Input. Please try it again.
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 5
+
+Invalid Input. Please try it again.
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 4
+
+Printing all data...
+          Low Scores   High Scores   Average Scores
+Quiz 1             0           100            46.20
+Quiz 2             7           100            42.33
+Quiz 3             0           100            70.47
+Quiz 4            32            90            75.67
+Quiz 5            10            80            49.73
+Do you want to continue? - enter <y/n>: h
+Invalid Input. Please try it again.
+Do you want to continue? - enter <y/n>: u
+Invalid Input. Please try it again.
+Do you want to continue? - enter <y/n>: Y
+Select operation - 
+1. Enter 1 for printing low scores.
+2. Enter 2 for printing high scores.
+3. Enter 3 for printing average scores.
+4. Enter 4 for printing all statistical data.
+Enter <1 through 4>: 4
+
+Printing all data...
+          Low Scores   High Scores   Average Scores
+Quiz 1             0           100            46.20
+Quiz 2             7           100            42.33
+Quiz 3             0           100            70.47
+Quiz 4            32            90            75.67
+Quiz 5            10            80            49.73
+Do you want to continue? - enter <y/n>: p
+Invalid Input. Please try it again.
+Do you want to continue? - enter <y/n>: N
+
+Thank you! Have a nice day!
+		
+
