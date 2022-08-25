@@ -1,0 +1,47 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 2 - Part 1
+ * Due Date: 01/31/2022
+ * Date Submitted: 01/31/2022
+ */
+
+*****************************************PART 1*****************************************************
+
+Please input a Human Genome properties
+Genome Name: Human Bob
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells (Trillions): 76
+
+Please input a Human Genome properties
+Genome Name: Human Sally
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells (Trillions): 120
+
+Please input a Human Genome properties
+Genome Name: Human Sri
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells (Trillions): 75
+
+
+Human Genome Properties
+Genome Name: Human Bob
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells (Trillions): 76
+
+Human Genome Properties
+Genome Name: Human Sally
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells (Trillions): 120
+
+Human Genome Properties
+Genome Name: Human Sri
+Number of Genes: 20000
+Number of Chromosomes: 46
+Number of Cells (Trillions): 75
+
+
