@@ -1,0 +1,243 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 3
+ * Due Date: 02/14/2022
+ * Date Submitted: 02/14/2022
+ */
+
+*****************************************TEST 1*****************************************************
+Welcome to Franchise App
+We have data for 6 stores for last 5 weeks.
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 1
+
+Total sales for week 1: 16419.52
+Total sales for week 2: 20615.00
+Total sales for week 3: 24878.00
+Total sales for week 4: 29141.00
+Total sales for week 5: 33404.00
+Do you want to continue? - enter <y/n>: n
+
+Thank you! Have a nice day!
+
+
+*****************************************TEST 2*****************************************************
+			(This test is testing for invalid input from user)
+
+Welcome to Franchise App
+We have data for 6 stores for last 5 weeks.
+Select a store # you want to see analytics for - enter <1 through 6>: 10
+Store invalid.
+Please try it again.
+
+Select a store # you want to see analytics for - enter <1 through 6>: 5
+
+Acessing data from store 5 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 10
+Invalid operation
+Please try it again.
+
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 7
+
+All analytical data
+                   Week 1    Week 2    Week 3    Week 4    Week 5
+Total Sales      16459.07  20654.55  24917.55  29180.55  33443.55
+Average Sales     2351.30   2950.65   3559.65   4168.65   4777.65
+
+Total sales for all weeks: 124655.27
+Average weekly sales: $3561.58
+Week 5 has highest amount in sales with $33443.55
+Week 1 has lowest amount in sales with $16459.07
+Do you want to continue? - enter <y/n>: d
+Invalid input. Please try it again.
+Do you want to continue? - enter <y/n>: n
+
+Thank you! Have a nice day!
+
+
+*****************************************TEST 3*****************************************************
+Welcome to Franchise App
+We have data for 6 stores for last 5 weeks.
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 1
+
+Total sales for week 1: 16419.52
+Total sales for week 2: 20615.00
+Total sales for week 3: 24878.00
+Total sales for week 4: 29141.00
+Total sales for week 5: 33404.00
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 2
+
+Average sales for week 1: 2345.65
+Average sales for week 2: 2945.00
+Average sales for week 3: 3554.00
+Average sales for week 4: 4163.00
+Average sales for week 5: 4772.00
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 3
+
+Total sales for all weeks: $124457.52
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 4
+
+Average weekly sales: $3555.93
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 5
+
+Week 5 has highest amount in sales with $33404.00
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 6
+
+Week 1 has lowest amount in sales with $16419.52
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 7
+
+All analytical data
+                   Week 1    Week 2    Week 3    Week 4    Week 5
+Total Sales      16419.52  20615.00  24878.00  29141.00  33404.00
+Average Sales     2345.65   2945.00   3554.00   4163.00   4772.00
+
+Total sales for all weeks: 124457.52
+Average weekly sales: $3555.93
+Week 5 has highest amount in sales with $33404.00
+Week 1 has lowest amount in sales with $16419.52
+Do you want to continue? - enter <y/n>: y
+Select a store # you want to see analytics for - enter <1 through 6>: 1
+
+Acessing data from store 1 ...
+Select operation - 
+1. Enter 1 for total sales for each week
+2. Enter 2 for average daily sales for each week
+3. Enter 3 for total sales for all weeks
+4. Enter 4 for average weekly sales
+5. Enter 5 for week with the highest amount in sales.
+6. Enter 6 for week with the lowest amount in sales.
+7. Enter 7 for all analytical data. (1 through 6)
+8. Enter 8 for table of sales data
+Enter <1 through 8>: 8
+
+Table of Sales Data
+           Day 1     Day 2     Day 3     Day 4     Day 5     Day 6     Day 7
+Week 1	   2541.56   2258.96   2214.00   2256.00   2154.00   2398.00   2597.00
+Week 2	   2684.00   2771.00   2858.00   2945.00   3032.00   3119.00   3206.00
+Week 3	   3293.00   3380.00   3467.00   3554.00   3641.00   3728.00   3815.00
+Week 4	   3902.00   3989.00   4076.00   4163.00   4250.00   4337.00   4424.00
+Week 5	   4511.00   4598.00   4685.00   4772.00   4859.00   4946.00   5033.00
+Do you want to continue? - enter <y/n>: n
+
+Thank you! Have a nice day!
+
+
