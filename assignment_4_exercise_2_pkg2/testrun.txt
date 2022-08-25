@@ -1,0 +1,76 @@
+/* Name: Trung Nghia Dinh
+ * Class and Section: CIS 35A - 63Z
+ * Assignment Number: Assignment 4 - Exercise 2
+ * Due Date: 02/27/2022
+ * Date Submitted: 02/27/2022
+ */
+
+
+***********************************************************Test Run************************************************************
+Name: Cargo_1
+Origin: USA
+Owner: Henry
+Capacity: 350
+Cargo Type: Cargo_Type_1
+Number of cranes: 500.00
+Cargo Value: 400.00
+Cargo Length: 2.80
+Cargo Width: 3.60
+Cargo Height: 4.50
+Cargo Departure Date: 02/22/2022
+Cargo Arrival Date: 03/22/2022
+
+Name: Cruise_1
+Origin: Japan
+Owner: Elon Musk
+Capacity: 500
+Cruise Type: Cruise_Type_1
+Ticket Price: 40.00
+Number of rooms: 200
+Cruise Length: 5.50
+Cruise Width: 6.80
+Cruise Height: 10.20
+Cruise Departure Date: 04/25/2022
+Cruise Arrival Date: 05/26/2022
+
+Name: Cruise_2
+Origin: Korea
+Owner: Nathan
+Capacity: 500
+Cruise Type: Cruise_Type_2
+Ticket Price: 10.00
+Number of rooms: 400
+Cruise Length: 5.50
+Cruise Width: 6.80
+Cruise Height: 10.20
+Cruise Departure Date: 02/25/2023
+Cruise Arrival Date: 04/25/2023
+
+Name: Cargo_2
+Origin: Germany
+Owner: Buffet
+Capacity: 200
+Cargo Type: Cargo_Type_2
+Number of cranes: 690.00
+Cargo Value: 220.00
+Cargo Length: 5.00
+Cargo Width: 4.40
+Cargo Height: 4.50
+Cargo Departure Date: 04/08/2022
+Cargo Arrival Date: 05/09/2022
+
+Name: Cargo_3
+Origin: Italia
+Owner: Federer
+Capacity: 150
+Cargo Type: Cargo_Type_3
+Number of cranes: 136.00
+Cargo Value: 423.00
+Cargo Length: 7.00
+Cargo Width: 8.00
+Cargo Height: 9.00
+Cargo Departure Date: 07/08/2022
+Cargo Arrival Date: 02/14/2023
+
+
+
